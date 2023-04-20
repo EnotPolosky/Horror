@@ -1,0 +1,6 @@
+2023/04/19-17:57:10.933 1bb8 Creating DB B:/New Game/Horror/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/04/19-17:57:10.936 1bb8 Reusing MANIFEST B:/New Game/Horror/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/19-20:30:53.097 990 Level-0 table #5: started
+2023/04/19-20:30:53.101 990 Level-0 table #5: 8532 bytes OK
+2023/04/19-20:30:53.102 990 Delete type=0 #3
+2023/04/19-20:30:53.103 990 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
